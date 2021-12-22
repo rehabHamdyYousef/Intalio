@@ -1,0 +1,3 @@
+DataBaseName : intalioTask
+User Id :postgres
+password :1234
