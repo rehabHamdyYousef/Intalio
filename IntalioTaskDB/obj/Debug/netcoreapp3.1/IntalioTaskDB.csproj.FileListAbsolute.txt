@@ -1,0 +1,15 @@
+E:\project Core\IntalioTask\IntalioTaskDB\bin\Debug\netcoreapp3.1\IntalioTaskDB.deps.json
+E:\project Core\IntalioTask\IntalioTaskDB\bin\Debug\netcoreapp3.1\IntalioTaskDB.runtimeconfig.json
+E:\project Core\IntalioTask\IntalioTaskDB\bin\Debug\netcoreapp3.1\IntalioTaskDB.runtimeconfig.dev.json
+E:\project Core\IntalioTask\IntalioTaskDB\bin\Debug\netcoreapp3.1\IntalioTaskDB.dll
+E:\project Core\IntalioTask\IntalioTaskDB\bin\Debug\netcoreapp3.1\IntalioTaskDB.pdb
+E:\project Core\IntalioTask\IntalioTaskDB\bin\Debug\netcoreapp3.1\IntalioTaskCore.dll
+E:\project Core\IntalioTask\IntalioTaskDB\bin\Debug\netcoreapp3.1\IntalioTaskCore.pdb
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.csprojAssemblyReference.cache
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.AssemblyInfoInputs.cache
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.AssemblyInfo.cs
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.csproj.CoreCompileInputs.cache
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.csproj.CopyComplete
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.dll
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.pdb
+E:\project Core\IntalioTask\IntalioTaskDB\obj\Debug\netcoreapp3.1\IntalioTaskDB.genruntimeconfig.cache

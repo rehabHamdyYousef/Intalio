@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzTX2FGOiB9q5Zl4RPTO/bHSKAZiiYvU3+NV/VI1jpIuSw6AaoPJp53q607j5Z9I8kNy10BlkgOd3Jr0XMQDzQ==",
+  "success": true,
+  "projectFilePath": "E:\\project Core\\IntalioTask\\IntalioTaskService\\IntalioTaskService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youse\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

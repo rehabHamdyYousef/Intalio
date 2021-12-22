@@ -1,0 +1,14 @@
+E:\project Core\IntalioTask\IntalioTaskReposatory\bin\Debug\netcoreapp3.1\IntalioTaskReposatory.deps.json
+E:\project Core\IntalioTask\IntalioTaskReposatory\bin\Debug\netcoreapp3.1\IntalioTaskReposatory.dll
+E:\project Core\IntalioTask\IntalioTaskReposatory\bin\Debug\netcoreapp3.1\IntalioTaskReposatory.pdb
+E:\project Core\IntalioTask\IntalioTaskReposatory\bin\Debug\netcoreapp3.1\IntalioTaskCore.dll
+E:\project Core\IntalioTask\IntalioTaskReposatory\bin\Debug\netcoreapp3.1\IntalioTaskDB.dll
+E:\project Core\IntalioTask\IntalioTaskReposatory\bin\Debug\netcoreapp3.1\IntalioTaskCore.pdb
+E:\project Core\IntalioTask\IntalioTaskReposatory\bin\Debug\netcoreapp3.1\IntalioTaskDB.pdb
+E:\project Core\IntalioTask\IntalioTaskReposatory\obj\Debug\netcoreapp3.1\IntalioTaskReposatory.csprojAssemblyReference.cache
+E:\project Core\IntalioTask\IntalioTaskReposatory\obj\Debug\netcoreapp3.1\IntalioTaskReposatory.AssemblyInfoInputs.cache
+E:\project Core\IntalioTask\IntalioTaskReposatory\obj\Debug\netcoreapp3.1\IntalioTaskReposatory.AssemblyInfo.cs
+E:\project Core\IntalioTask\IntalioTaskReposatory\obj\Debug\netcoreapp3.1\IntalioTaskReposatory.csproj.CoreCompileInputs.cache
+E:\project Core\IntalioTask\IntalioTaskReposatory\obj\Debug\netcoreapp3.1\IntalioTaskReposatory.csproj.CopyComplete
+E:\project Core\IntalioTask\IntalioTaskReposatory\obj\Debug\netcoreapp3.1\IntalioTaskReposatory.dll
+E:\project Core\IntalioTask\IntalioTaskReposatory\obj\Debug\netcoreapp3.1\IntalioTaskReposatory.pdb

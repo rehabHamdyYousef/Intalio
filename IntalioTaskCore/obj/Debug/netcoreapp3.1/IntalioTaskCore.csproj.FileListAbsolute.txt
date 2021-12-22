@@ -1,0 +1,9 @@
+E:\project Core\IntalioTask\IntalioTaskCore\bin\Debug\netcoreapp3.1\IntalioTaskCore.deps.json
+E:\project Core\IntalioTask\IntalioTaskCore\bin\Debug\netcoreapp3.1\IntalioTaskCore.dll
+E:\project Core\IntalioTask\IntalioTaskCore\bin\Debug\netcoreapp3.1\IntalioTaskCore.pdb
+E:\project Core\IntalioTask\IntalioTaskCore\obj\Debug\netcoreapp3.1\IntalioTaskCore.csprojAssemblyReference.cache
+E:\project Core\IntalioTask\IntalioTaskCore\obj\Debug\netcoreapp3.1\IntalioTaskCore.AssemblyInfoInputs.cache
+E:\project Core\IntalioTask\IntalioTaskCore\obj\Debug\netcoreapp3.1\IntalioTaskCore.AssemblyInfo.cs
+E:\project Core\IntalioTask\IntalioTaskCore\obj\Debug\netcoreapp3.1\IntalioTaskCore.csproj.CoreCompileInputs.cache
+E:\project Core\IntalioTask\IntalioTaskCore\obj\Debug\netcoreapp3.1\IntalioTaskCore.dll
+E:\project Core\IntalioTask\IntalioTaskCore\obj\Debug\netcoreapp3.1\IntalioTaskCore.pdb
